@@ -1,13 +1,3 @@
-# [MESS PORTAL](https://mess.dashroshan.com)
-
-[**A D3 Fest Hackathon submission**](https://d3fest.tech)
-
-### Team members:
-
-- Roshan Dash (Developer)
-- Subhajit Chatterjee (UI/UX, Documentation)
-
-### ▶️ [View it on YouTube](https://www.youtube.com/watch?v=QqCdYTh8L7o)
 
 ## 🧱 PROBLEM STATEMENT
 
